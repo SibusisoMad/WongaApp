@@ -1,0 +1,4 @@
+C:\Users\Sibusiso Madloba\source\repos\WongaApp\ReceiverApp\obj\Release\netcoreapp3.1\ReceiverApp.csprojAssemblyReference.cache
+C:\Users\Sibusiso Madloba\source\repos\WongaApp\ReceiverApp\obj\Release\netcoreapp3.1\ReceiverApp.AssemblyInfoInputs.cache
+C:\Users\Sibusiso Madloba\source\repos\WongaApp\ReceiverApp\obj\Release\netcoreapp3.1\ReceiverApp.AssemblyInfo.cs
+C:\Users\Sibusiso Madloba\source\repos\WongaApp\ReceiverApp\obj\Release\netcoreapp3.1\ReceiverApp.csproj.CoreCompileInputs.cache

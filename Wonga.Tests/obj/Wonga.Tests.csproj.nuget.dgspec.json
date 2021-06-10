@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\Wonga.Tests\\Wonga.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\MessageClient\\MessageClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\MessageClient\\MessageClient.csproj",
+        "projectName": "MessageClient",
+        "projectPath": "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\MessageClient\\MessageClient.csproj",
+        "packagesPath": "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\MessageClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sibusiso Madloba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {},
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\Wonga.Tests\\Wonga.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\Wonga.Tests\\Wonga.Tests.csproj",
+        "projectName": "Wonga.Tests",
+        "projectPath": "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\Wonga.Tests\\Wonga.Tests.csproj",
+        "packagesPath": "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\Wonga.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sibusiso Madloba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {},
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\MessageClient\\MessageClient.csproj": {
+                "projectPath": "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\MessageClient\\MessageClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

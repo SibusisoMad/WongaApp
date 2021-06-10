@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "fyyR8+048Whlb40X97ht1vnncTl/c03Je6q0IMbHPBXmn2+ZUVV8EepW6bnIx60+qLQek5SIG4c+MxSn4fV7Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sibusiso Madloba\\source\\repos\\WongaApp\\ReceiverApp\\ReceiverApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.0\\microsoft.extensions.configuration.fileextensions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.0\\microsoft.extensions.configuration.json.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.0\\microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.0\\microsoft.extensions.fileproviders.physical.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.0\\microsoft.extensions.filesystemglobbing.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.logging\\3.1.0\\microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.0\\microsoft.extensions.logging.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.0\\microsoft.extensions.logging.console.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.0\\microsoft.extensions.options.configurationextensions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sibusiso Madloba\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
