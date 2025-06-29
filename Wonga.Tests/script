@@ -1,0 +1,1 @@
+ dotnet ef database update --project ../JSE.EmployeeLeaveSystem.Data/JSE.EmployeeLeaveSystem.Data/JSE.EmployeeLeaveSystem.Data.csproj --startup-project .
